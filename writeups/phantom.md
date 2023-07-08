@@ -471,7 +471,7 @@ At this point, I was a bit disappointed that my lede of using the `<textarea>` t
 
 In the morning, with 8 hours to go for the end of the CTF, I decided to take another stab at the challenge before the writeups came out. One thing I realized was that the Golang `net/html` library was open-source, so I could possibly look at the source of how they were parsing the input and be able to craft exploit ideas from there.
 
-After spending a considerable time reading through the golang source code, I saw the following peice of code at [`parse.go:2214`](https://cs.opensource.google/go/x/net/+/refs/heads/master:html/parse.go;l=2214;drc=c63010009c802314a29324ce49987897f9838e29;bpv=0;bpt=1):
+After spending a considerable time reading through the golang source code, I saw the following piece of code at [`parse.go:2214`](https://cs.opensource.google/go/x/net/+/refs/heads/master:html/parse.go;l=2214;drc=c63010009c802314a29324ce49987897f9838e29;bpv=0;bpt=1):
 
 ```go
 switch current.Namespace {
