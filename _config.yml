@@ -27,6 +27,8 @@ favicon_dark: ./assets/img/profile.jpeg
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
 
+markdown: GFM
+
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4

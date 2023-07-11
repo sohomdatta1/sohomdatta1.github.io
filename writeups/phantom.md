@@ -1,3 +1,6 @@
+---
+layout: writeup
+---
 # Writeup for JustCTF 2023 phantom CTF challenge
 
 phantom was a CTF challenge in justCTF 2023 that had an extremely interesting premise which included finding a mutation XSS vector in Google `net/html` HTML parsing library as well as a CSRF bypass using the `HEAD` HTTP method.

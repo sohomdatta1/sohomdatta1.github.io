@@ -1,3 +1,7 @@
+---
+layout: writeup
+---
+
 # Adminplz writeup
 
 **Adminplz** was a interesting challenge in UIUCTF 2023 that involved a path traversal exploit as well as a CSP bypass that was used to steal the session token of a admin user. While I was able to solve the challenge the intended way, I want to also discuss on a slightly interesting tangent that I went down while looking for other ways to solve the CSP bypass.
