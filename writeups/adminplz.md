@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: writeups
 ---
 
 # Adminplz writeup
