@@ -14,8 +14,6 @@ As of March 2023, I am working as a Research intern at the [Wolfpack Privacy and
 
 ## Reported vulnerabilities/bugs
 
-Over the course of my Bachelors, I have come across various security issues in software
-
 - Awarded 7500 USD for discovering a XSS sanitation deficiency in the Golang html/template library. **[CVE-2023-24538](https://nvd.nist.gov/vuln/detail/CVE-2023-24538)**
 - Awarded 3133.7 USD for discovering authentication bypasses in the dart:core URI parsing module in Dart-lang by
 the Google Vulnerability Rewards Program in 2022 **[CVE-2022-3095](https://nvd.nist.gov/vuln/detail/CVE-2022-3095)**
