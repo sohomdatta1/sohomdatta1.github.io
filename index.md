@@ -4,16 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a senior (final year) pursuing my undergrad in Computer Science at Manipal Institute of Technology. My research interests include topics such as **web security**, **privacy measurement** and **systems security**.
+I am a recent grad, a software developer and cybersecurity enthusiast. I tend to gravitate towards topics such as **web security**, **systems security** and **privacy measurement**.
 
 In the formative years of my undergraduate degree, I have had the opportunity of gaining practical experience, working as a open-source developer and maintainer for projects such as [ProofreadPage](https://mediawiki.org/wiki/Extension:ProofreadPage) and [VideoCutTool](https://commons.wikimedia.org/wiki/COM:VideoCutTool) at the [Wikimedia Foundation](https://wikimediafoundation.org), as well as interning at [Chromium](https://chromium.org) during 2022, where I worked on a [project](https://summerofcode.withgoogle.com/archive/2022/projects/Vqi9wYEF) aimed at increasing Chromium's coverage of the Performance API specification.
 
 More recently, I have been involved in cybersecurity adjacent projects, acting as subsystem head specializing in web and binary security at my [college cybersecurity team](https://ctftime.org/team/62713/) (ranked amongst the top 10 in India in CTFTime during 2023) as well as being chosen for a undergraduate research assistantship advised by [Nisha P. Shetty](https://manipal.edu/mit/department-faculty/faculty-list/nisha-p-shetty/_jcr_content.html).
 
-As of March 2023, I am working as a Research intern at the [Wolfpack Privacy and Security Lab](https://wspr.csc.ncsu.edu/), North Carolina State University.
+Towards the start of 2023, I had the privilege of working as a Research intern at the [Wolfpack Security and Privacy Research Lab](https://wspr.csc.ncsu.edu/) working on improving the tooling around [VisibleV8](https://github.com/wspr-ncsu/visiblev8), a modified version of the Chrome browser that facilitates research into malicious and/or privacy infringing javascript on the web.
+
+As of October 2023, I am working as a Visiting Researcher at the [Max Planck Institute of Security and Privacy](https://mpi-sp.org/), Bochum, where I am pursuing a project exploring the feasibility of fuzzing race-conditions in web-server application logic.
 
 ## Reported vulnerabilities/bugs
 
+- Awarded 5000 USD for finding a mechanism to reliably leak a user’s browsing history via a experimental origin-trial web feature
+in Google Chrome 116. **[crbug.com/1457049](crbug.com/1457049)**
 - Awarded 7500 USD for discovering a XSS sanitation deficiency in the Golang html/template library. **[CVE-2023-24538](https://nvd.nist.gov/vuln/detail/CVE-2023-24538)**
 - Awarded 3133.7 USD for discovering authentication bypasses in the dart:core URI parsing module in Dart-lang by
 the Google Vulnerability Rewards Program in 2022 **[CVE-2022-3095](https://nvd.nist.gov/vuln/detail/CVE-2022-3095)**
@@ -22,7 +26,7 @@ Rewards Program in 2021.
 - Found and reported security/privacy issues in Google Chrome and Firefox’s implementation of the ResourceTiming
 API. **[CVE-2022-1146](https://nvd.nist.gov/vuln/detail/CVE-2022-1146)**, **[CVE-2022-29915](https://nvd.nist.gov/vuln/detail/CVE-2022-29915)**
 - Found and reported a high severity Denial-of-service attack against the popular jpeg-js javascript library to snyk.io. **[CVE-2022-25851]**
-- Use-after-free in sudo-project/sudo (cvtsudoers) ([Github issue#198](https://github.com/sudo-project/sudo/issues/198))
+- Use-after-free in sudo-project/sudo (cvtsudoers) **[Github issue#198](https://github.com/sudo-project/sudo/issues/198)**
 
 ## Hobbies
 
