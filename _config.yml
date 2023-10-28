@@ -1,5 +1,5 @@
 # Basic Information 
-avatar: assets/img/profile.jpeg
+avatar: /assets/img/profile.jpeg
 title: Sohom Datta
 position: Visiting Researcher
 affiliation: Max Planck Institute of Security and Privacy
@@ -20,14 +20,15 @@ twitter: https://twitter.com/@doas_matroshkya
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-favicon: ./assets/img/profile.jpeg
-favicon_dark: ./assets/img/profile.jpeg
+favicon: /assets/img/profile.jpeg
+favicon_dark: /assets/img/profile.jpeg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
 
-markdown: GFM
+markdown: kramdown
+highlighter: rouge
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

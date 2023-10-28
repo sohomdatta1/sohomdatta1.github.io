@@ -17,9 +17,8 @@ layout: writeups
 ## Intial recon
 
 The tar.gz file associated with the challenge had a java web app made using the Spring framework that allowed users to login and view a admin endpoint that was only restricted to admin users.
-<details>
 
-<summary>AdminApplication.java</summary>
+### AdminApplication.java
 
 ```java
 package dev.arxenix.adminplz;
@@ -100,10 +99,10 @@ public class AdminApplication {
     }
 }
 ```
-</details>
 
-<details>
-<summary>CSP.java</summary>
+### CSP.java
+
+```java
 package dev.arxenix.adminplz;
 
 import jakarta.servlet.*;
@@ -122,7 +121,7 @@ public class CSP implements Filter {
         chain.doFilter(request, response);
     }
 }
-</details>
+```
 
 On a initial look, a few things stood out to me, firstly, the CSP for the app was `default-src 'none';` which is a extremely restrictive CSP that disallows almost every form of connection from the host website, secondly, the `/admin` endpoint used a function `app.getResource(...)` that according to [documentation on the web](https://docs.spring.io/spring-framework/reference/core/resources.html#resources-resourceloader) seemed to be capable of accepting almost any web URL as well as the `classpath:` URI.
 
@@ -259,3 +258,5 @@ if __name__ == '__main__':
 ## Flag
 
 Flag: ```uiuctf{adminplz_c4n_1_h4v3_s0M3_co0k13s?_b5eab1cc61c26f07e63af7f8}```
+
+## Notes
