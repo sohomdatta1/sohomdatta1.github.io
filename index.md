@@ -16,8 +16,9 @@ As of October 2023, I am working as a Visiting Researcher at the [Max Planck Ins
 
 ## Reported vulnerabilities/bugs
 
+- Found and fixed a cross-site scripting exploit in the PageTriage extension deployed on English Wikipedia **[CVE-2024-23174](https://nvd.nist.gov/vuln/detail/CVE-2024-23174)**
 - Awarded 5000 USD for finding a mechanism to reliably leak a user’s browsing history via a experimental origin-trial web feature
-in Google Chrome 116. **[crbug.com/1457049](https://crbug.com/1457049)**
+in Google Chrome 116. **[https://crbug.com/1457049](https://crbug.com/1457049)**
 - Awarded 7500 USD for discovering a XSS sanitation deficiency in the Golang html/template library. **[CVE-2023-24538](https://nvd.nist.gov/vuln/detail/CVE-2023-24538)**
 - Awarded 3133.7 USD for discovering authentication bypasses in the dart:core URI parsing module in Dart-lang by
 the Google Vulnerability Rewards Program in 2022 **[CVE-2022-3095](https://nvd.nist.gov/vuln/detail/CVE-2022-3095)**
@@ -27,6 +28,10 @@ Rewards Program in 2021.
 API. **[CVE-2022-1146](https://nvd.nist.gov/vuln/detail/CVE-2022-1146)**, **[CVE-2022-29915](https://nvd.nist.gov/vuln/detail/CVE-2022-29915)**
 - Found and reported a high severity Denial-of-service attack against the popular jpeg-js javascript library to snyk.io. **[CVE-2022-25851]**
 - Use-after-free in sudo-project/sudo (cvtsudoers) **[Github issue#198](https://github.com/sudo-project/sudo/issues/198)**
+
+## Publications
+
+* Shetty, Nisha P.; Muniyal, Balachandra; Dokania, Akshat; **Datta, Sohom**; Gandluri, Manas Subramanyam; Maben, Leander Melroy; Priyanshu, Aman (2023-09-28). ["Guarding Your Social Circle: Strategies to Protect Key Connections and Edge Importance"](https://www.hindawi.com/journals/scn/2023/2548962/). *Security and Communication Networks*. **2023**: e2548962. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1155/2023/2548962](https://doi.org/10.1155%2F2023%2F2548962). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)") [1939-0114](https://www.worldcat.org/issn/1939-0114)
 
 ## Hobbies
 
