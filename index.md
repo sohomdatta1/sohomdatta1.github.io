@@ -10,9 +10,9 @@ In the formative years of my undergraduate degree, I have had the opportunity of
 
 More recently, I have been involved in cybersecurity adjacent projects, acting as subsystem head specializing in web and binary security at my [college cybersecurity team](https://ctftime.org/team/62713/) (ranked amongst the top 10 in India in CTFTime during 2023) as well as being chosen for a undergraduate research assistantship advised by [Nisha P. Shetty](https://manipal.edu/mit/department-faculty/faculty-list/nisha-p-shetty/_jcr_content.html).
 
-Towards the start of 2023, I had the privilege of working as a Research intern at the [Wolfpack Security and Privacy Research Lab](https://wspr.csc.ncsu.edu/) working on improving the tooling around [VisibleV8](https://github.com/wspr-ncsu/visiblev8), a modified version of the Chrome browser that facilitates research into malicious and/or privacy infringing javascript on the web.
+Towards the start of 2023, I had the privilege of working as a Research intern at the [Wolfpack Security and Privacy Research Lab](https://wspr.csc.ncsu.edu/) working on improving the tooling around [VisibleV8](https://github.com/wspr-ncsu/visiblev8), a modified version of the Chrome browser that facilitates research into malicious and/or privacy infringing javascript on the web. In October 2023, I worked as a Visiting Researcher at the [Max Planck Institute of Security and Privacy](https://mpi-sp.org/), Bochum, where I pursued a project exploring the feasibility of fuzzing race-conditions in web-server application logic.
 
-As of October 2023, I am working as a Visiting Researcher at the [Max Planck Institute of Security and Privacy](https://mpi-sp.org/), Bochum, where I am pursuing a project exploring the feasibility of fuzzing race-conditions in web-server application logic.
+Since February 2023, I have taken up a position as a research scholar at the Wolfpack Security and Privacy Research Lab (again!) and will be working with Dr Alexandros Kapravelos's group to investigate Javascript techniques used in fingerprinting and other privacy compromising contexts. I am also in the transitioning to a PhD position at the same lab.
 
 ## Reported vulnerabilities/bugs
 
@@ -35,6 +35,6 @@ API. **[CVE-2022-1146](https://nvd.nist.gov/vuln/detail/CVE-2022-1146)**, **[CVE
 
 ## Hobbies
 
-When I'm not tinkering with tech, I like to spend my time doing photography and writing about [Indian topics at Wikimedia](https://en.wikipedia.org/wiki/Special:Contributions/Sohom_Datta). I have a [instagram](https://instagram.com/dattasohom) where I infrequently post cool pictures that I might have taken.
+When I'm not tinkering with tech, I like to spend my time doing photography and writing about [indian and computer security topics at Wikimedia](https://en.wikipedia.org/wiki/Special:Contributions/Sohom_Datta). I have a [instagram](https://instagram.com/dattasohom) where I infrequently post cool pictures that I might have taken.
 
 All pictures released by me on social media should be considered to be under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless noted otherwise. This means that you should provide attribution if you plan to use the pictures anywhere other than for your own personal use.
