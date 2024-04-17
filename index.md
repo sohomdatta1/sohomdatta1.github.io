@@ -12,7 +12,7 @@ More recently, I have been involved in cybersecurity adjacent projects, acting a
 
 Towards the start of 2023, I had the privilege of working as a Research intern at the [Wolfpack Security and Privacy Research Lab](https://wspr.csc.ncsu.edu/) working on improving the tooling around [VisibleV8](https://github.com/wspr-ncsu/visiblev8), a modified version of the Chrome browser that facilitates research into malicious and/or privacy infringing javascript on the web. In October 2023, I worked as a Visiting Researcher at the [Max Planck Institute of Security and Privacy](https://mpi-sp.org/), Bochum, where I pursued a project exploring the feasibility of fuzzing race-conditions in web-server application logic.
 
-Since February 2023, I have taken up a position as a research scholar at the Wolfpack Security and Privacy Research Lab (again!) and will be working with Dr Alexandros Kapravelos's group to investigate Javascript techniques used in fingerprinting and other privacy compromising contexts. I am also in the transitioning to a PhD position at the same lab.
+Since February 2023, I have taken up a position as a research scholar at the Wolfpack Security and Privacy Research Lab (again!) and will be working with Dr Alexandros Kapravelos's group to investigate Javascript techniques used in fingerprinting and other privacy compromising contexts. I am also in the process og transitioning to a PhD position at the same lab.
 
 ## Reported vulnerabilities/bugs
 
