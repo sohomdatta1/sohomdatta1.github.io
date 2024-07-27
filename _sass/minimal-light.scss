@@ -669,14 +669,14 @@ footer {
   }
 }
 .content {
-  view-transition-name: content-slide;
+  /*view-transition-name: content-slide;*/
 }
 ::view-transition-old(content-slide) {
-  animation-duration: 10s;
+  animation-duration: 2s;
   animation-name: slide-left;
 }
 
 ::view-transition-new(content-slide) {
-  animation-duration: 10s;
+  animation-duration: 2s;
   animation-name: slide-right;
 }
