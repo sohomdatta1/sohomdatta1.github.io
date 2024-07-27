@@ -17,7 +17,7 @@ The zip file handout contained two files of importance, a `main.go` that was a s
 
 <details>
 
-<summary>
+<summary markdown="span">
 main.go
 </summary>
 
@@ -300,7 +300,7 @@ func main() {
 </details>
 <details>
 
-<summary>
+<summary markdown="span">
 bot.go
 </summary>
 
@@ -640,7 +640,7 @@ after a bit of trial and error, I was able to use the `HEAD` method to reach the
 The final exploit code that I hosted on a server and sent to the bot was as follows:
 
 <details>
-<summary>hack.html</summary>
+<summary markdown="span">hack.html</summary>
 
 ```html
 <body>
