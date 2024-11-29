@@ -5,10 +5,10 @@ layout: homepage
 
 ## Reported vulnerabilities/bugs
 
-- Found and fixed a cross-site scripting exploit in the PageTriage extension deployed on English Wikipedia **[CVE-2024-23174](https://nvd.nist.gov/vuln/detail/CVE-2024-23174)**
+- Found and fixed a authorization bypass and a cross-site scripting exploit in the PageTriage extension deployed on English Wikipedia **[CVE-2024-23174](https://nvd.nist.gov/vuln/detail/CVE-2024-23174)**, **[CVE-2024-47848](https://nvd.nist.gov/vuln/detail/CVE-2024-47848)**
 - Awarded 5000 USD for finding a mechanism to reliably leak a user’s browsing history via a experimental origin-trial web feature
 in Google Chrome 116. **[https://crbug.com/1457049](https://crbug.com/1457049)**
-- Awarded 7500 USD for discovering a XSS sanitation deficiency in the Golang html/template library. **[CVE-2023-24538](https://nvd.nist.gov/vuln/detail/CVE-2023-24538)**
+- Awarded 7500 USD for discovering a XSS sanitation issue in the Golang html/template library. **[CVE-2023-24538](https://nvd.nist.gov/vuln/detail/CVE-2023-24538)**
 - Awarded 3133.7 USD for discovering authentication bypasses in the dart:core URI parsing module in Dart-lang by
 the Google Vulnerability Rewards Program in 2022 **[CVE-2022-3095](https://nvd.nist.gov/vuln/detail/CVE-2022-3095)**
 - Awarded 3133.7 USD for discovering a URL validation bypass in Google’s Clojure library by the Google Vulnerability
