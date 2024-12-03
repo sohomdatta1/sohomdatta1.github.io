@@ -10,8 +10,8 @@ I also help maintain the [VisibleV8](https://github.com/wspr-ncsu/visiblev8) and
 
 ## Other links
 
-- [Open source work at Wikimedia](./vulns)
-- [Vulnerabilities found as a security researcher](./open-source)
+- [Open source work at Wikimedia](./open-source)
+- [Vulnerabilities found as a security researcher](./vulns)
 
 ## Publications
 * **Coming soon...**
