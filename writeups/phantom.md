@@ -639,9 +639,6 @@ after a bit of trial and error, I was able to use the `HEAD` method to reach the
 
 The final exploit code that I hosted on a server and sent to the bot was as follows:
 
-<details>
-<summary markdown="span">hack.html</summary>
-
 ```html
 <body>
 <iframe src="" name="_window" style="display: none;"></iframe>
@@ -672,7 +669,7 @@ The final exploit code that I hosted on a server and sent to the bot was as foll
     });
 </script>
 ```
-</details>
+
 
 ## Flag
 
