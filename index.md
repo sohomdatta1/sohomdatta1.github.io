@@ -15,7 +15,10 @@ I also help maintain the [VisibleV8](https://github.com/wspr-ncsu/visiblev8) and
 
 ## Publications
 
-* **Coming soon...**
+**Cross-Boundary Mobile Tracking: Exploring Java-to-JavaScript Information Diffusion in WebViews**<br>
+<small>*Sohom Datta*, Michalis Diamantaris, Ahsan Zafar, Junhua Su, Anupam Das, Jason Polakis, Alexandros Kapravelos</small><br>
+<small>*To appear at NDSS 2026*</small>
+
 
 <!--
 * (During undergraduate studies) Shetty, Nisha P.; Muniyal, Balachandra; Dokania, Akshat; **Datta, Sohom**; Gandluri, Manas Subramanyam; Maben, Leander Melroy; Priyanshu, Aman (2023-09-28). ["Guarding Your Social Circle: Strategies to Protect Key Connections and Edge Importance"](https://www.hindawi.com/journals/scn/2023/2548962/). *Security and Communication Networks*. **2023**: e2548962. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1155/2023/2548962](https://doi.org/10.1155%2F2023%2F2548962). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)") [1939-0114](https://www.worldcat.org/issn/1939-0114) -->
