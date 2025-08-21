@@ -30,7 +30,8 @@ I also help maintain the [VisibleV8](https://github.com/wspr-ncsu/visiblev8) and
 * [adminplz - UIUCTF 2023](./writeups/adminplz)
 * [phantom - JustCTF 2023](./writeups/phantom)
 
-## Other stuff
+## Other projects
+
 * [Wikipedia's most translated articles](./most-translated-articles-on-wikipedia/pretty.html)
 
 <small>This site uses Google Analytics to track visitor counts for my personal curiosity. Please feel free to use a ad-blocker if that bothers you.</small>
