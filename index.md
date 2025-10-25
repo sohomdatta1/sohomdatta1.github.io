@@ -15,7 +15,22 @@ I also help maintain the [VisibleV8](https://github.com/wspr-ncsu/visiblev8) and
 
 **Cross-Boundary Mobile Tracking: Exploring Java-to-JavaScript Information Diffusion in WebViews**<br>
 <small>*Sohom Datta*, Michalis Diamantaris, Ahsan Zafar, Junhua Su, Anupam Das, Jason Polakis, Alexandros Kapravelos</small><br>
-<small>*To appear at NDSS 2026*</small>
+<small>*To appear at NDSS 2026*</small><br>
+<small>[ [pdf](./paper/ndss26-summer-final910.pdf) ][ [code](https://github.com/wspr-ncsu/webviewtracer) ][ [dataset](https://datadryad.org/dataset/doi:10.5061/dryad.05qfttffz) ]</small>
+<details>
+<summary>BibTex</summary>
+
+```bibtex
+@inproceedings{datta2025webviewtracer,
+  title={Cross-Boundary Mobile Tracking: Exploring Java-to-JavaScript Information Diffusion in WebViews},
+  author={Datta, Sohom and Diamantaris, Michalis and Zafar, Ahsan and Su, Junhua and Das, Anupam and Polakis, Jason and Kapravelos, Alexandros},
+  booktitle={Proceedings of the Network and Distributed System Security Symposium (NDSS)},
+  year={2026},
+}
+```
+</details>
+
+----
 
 **Same Script, Different Behavior: Characterizing Platform-Specific Divergent JavaScript Execution**<br>
 <small>Ahsan Zafar, Junhua Su, *Sohom Datta*, Alexandros Kapravelos, Anupam Das</small><br>
