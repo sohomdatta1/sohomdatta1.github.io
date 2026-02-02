@@ -18,6 +18,8 @@ I also help maintain the [VisibleV8](https://github.com/wspr-ncsu/visiblev8) and
 <small>*To appear at NDSS 2026*</small><br>
 <small>[ [pdf](./paper/ndss26-summer-final910.pdf) ][ [code](https://github.com/wspr-ncsu/webviewtracer) ][ [dataset](https://datadryad.org/dataset/doi:10.5061/dryad.05qfttffz) ][ [prebuilt visiblev8 release](https://github.com/wspr-ncsu/visiblev8/releases/latest) ]</small>
 
+---
+
 **Same Script, Different Behavior: Characterizing Platform-Specific Divergent JavaScript Execution**<br>
 <small>Ahsan Zafar, Junhua Su, *Sohom Datta*, Alexandros Kapravelos, Anupam Das</small><br>
 <small>*Presented at ACM CCS 2025*</small><br>
@@ -36,4 +38,4 @@ I also help maintain the [VisibleV8](https://github.com/wspr-ncsu/visiblev8) and
 
 * [Wikipedia's most translated articles](./most-translated-articles-on-wikipedia/pretty.html)
 
-<small>This site uses Google Analytics to track visitor counts for my personal curiosity. Please feel free to use a ad-blocker if that bothers you.</small>
+<small>This site uses [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics) to track visitor counts for my personal curiosity. Please feel free to use a [ad-blocker](https://en.wikipedia.org/wiki/Ad_blocker) if that bothers you.</small>
