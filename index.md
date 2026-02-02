@@ -21,7 +21,7 @@ I also help maintain the [VisibleV8](https://github.com/wspr-ncsu/visiblev8) and
 **Same Script, Different Behavior: Characterizing Platform-Specific Divergent JavaScript Execution**<br>
 <small>Ahsan Zafar, Junhua Su, *Sohom Datta*, Alexandros Kapravelos, Anupam Das</small><br>
 <small>*To appear at ACM CCS 2025*</small><br>
-<small>[ [pdf](https://doi.org/10.1145/3719027.3765202) ]</small>
+<small>[ [pdf](https://doi.org/10.1145/3719027.3765202) ][ [visiblev8 mobile](https://github.com/wspr-ncsu/visiblev8?tab=readme-ov-file#vv8-for-android) ]</small>
 
 <!--
 * (During undergraduate studies) Shetty, Nisha P.; Muniyal, Balachandra; Dokania, Akshat; **Datta, Sohom**; Gandluri, Manas Subramanyam; Maben, Leander Melroy; Priyanshu, Aman (2023-09-28). ["Guarding Your Social Circle: Strategies to Protect Key Connections and Edge Importance"](https://www.hindawi.com/journals/scn/2023/2548962/). *Security and Communication Networks*. **2023**: e2548962. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1155/2023/2548962](https://doi.org/10.1155%2F2023%2F2548962). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)") [1939-0114](https://www.worldcat.org/issn/1939-0114) -->
