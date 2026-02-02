@@ -20,7 +20,7 @@ I also help maintain the [VisibleV8](https://github.com/wspr-ncsu/visiblev8) and
 
 **Same Script, Different Behavior: Characterizing Platform-Specific Divergent JavaScript Execution**<br>
 <small>Ahsan Zafar, Junhua Su, *Sohom Datta*, Alexandros Kapravelos, Anupam Das</small><br>
-<small>*To appear at ACM CCS 2025*</small><br>
+<small>*Presented at ACM CCS 2025*</small><br>
 <small>[ [pdf](https://doi.org/10.1145/3719027.3765202) ][ [visiblev8 mobile](https://github.com/wspr-ncsu/visiblev8?tab=readme-ov-file#vv8-for-android) ]</small>
 
 <!--
