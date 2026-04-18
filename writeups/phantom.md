@@ -15,6 +15,8 @@ phantom was a CTF challenge in justCTF 2023 that had an extremely interesting pr
 
 The zip file handout contained two files of importance, a `main.go` that was a small Go web server that allowed a user to edit their profile and view it, and a `bot.go` to allow users to test their exploits.
 
+{::options parse_block_html="true" /}
+
 <details>
 
 <summary markdown="span">
@@ -373,6 +375,8 @@ func main() {
 
 ```
 </details>
+
+{::options parse_block_html="false" /}
 
 On a initial look at `main.go`'s source code, I saw the following function which checks if the input given is safe HTML or not. Specifically it makes sure that all elements inside the input string are from a extremely strict set of  HTML elements (namely `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `b`, `i`, `a`, `img`, `p`, `code`, `svg`, `textarea`) and that there are no extraneous HTML attributes for each element.
 
