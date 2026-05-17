@@ -233,6 +233,8 @@ footer {
     width: auto;
   }
 
+
+
   header {
     position: static;
     padding: 0;
@@ -399,9 +401,14 @@ footer {
     padding:15px;
   }
 
-  .pub-row {
-  display: flex; 
-  align-items: center;}
+  footer {
+    width: auto;
+  }
+
+  section {
+    width:auto;
+    float:none;
+  }
 
   header {
     padding:0;
