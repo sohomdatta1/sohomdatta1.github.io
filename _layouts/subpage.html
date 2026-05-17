@@ -7,6 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     {% if site.keywords %}
     <meta name="keywords" content="{{ site.keywords }}">
     {% endif %}
@@ -17,6 +19,7 @@
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="../assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <link rel="expect" blocking="render" href="footer" />
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
@@ -26,9 +29,18 @@
 
   </head>
   <body>
+    <nav>
+          <ul class="header-nav">
+            <li><a href="/">About me</a></li>
+            <li><a href="/open-source">Open Source</a></li>
+            <li><a href="/vulns">Vulnerabilities</a></li>
+            <li><a href="/publications">Publications</a></li>
+            <li><a href="/writeups">CTF Writeups</a></li>
+          </ul>
+    </nav>
     <div class="wrapper">
       <header>
-        
+
         {% if site.avatar %}
         <a class="image avatar"><img src="../{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
@@ -85,7 +97,6 @@
             Download CV
           </a>
         </div>
-        <br>
 
       </header>
       <section class="content">
@@ -100,7 +111,7 @@
 
       </section>
       <footer>
-        
+        <small>This site uses <a href="https://en.wikipedia.org/wiki/Google_Analytics">Google Analytics</a> to track visitor counts for my personal curiosity. Please feel free to use a <a href="https://en.wikipedia.org/wiki/Ad_blocker">ad-blocker</a> if that bothers you.</small>
       </footer>
     </div>
     <script src="{{ "../assets/js/scale.fix.js" | relative_url }}"></script>

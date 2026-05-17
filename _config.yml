@@ -16,6 +16,7 @@ canonical: https://sohom.dev/
 cv_link: https://sohomdatta1.github.io/cv/artifacts/cv.pdf
 github_link: https://github.com/sohomdatta1
 linkedin: https://www.linkedin.com/in/sohom-datta-c29ob20K
+google_scholar: https://scholar.google.com/citations?hl=en&user=vv-sm4YAAAAJ
 #twitter: https://twitter.com/@doas_matroshkya
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -43,9 +44,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
   - vendor/bundle

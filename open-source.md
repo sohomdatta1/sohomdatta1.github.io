@@ -17,6 +17,11 @@ When I'm not tinkering with tech, I like to spend my time doing photography and 
 
 All pictures released by me on social media should be considered to be under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless noted otherwise. This means that you should provide attribution if you plan to use the pictures anywhere other than for your own personal use.
 
+## Other projects
+
+* [Wikipedia's most translated articles](./most-translated-articles-on-wikipedia/pretty.html)
+* [Wikipedia's AI Link checker](https://link-dispenser.toolforge.org)
+
 ## Links
 - [Wikipedia user page](https://en.wikipedia.org/wiki/User:Sohom_Datta)
 - [Wikimedia Gerrit activity](https://gerrit.wikimedia.org/r/q/owner:sohomdatta1@gmail.com)

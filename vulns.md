@@ -15,5 +15,5 @@ the Google Vulnerability Rewards Program in 2022 **[CVE-2022-3095](https://nvd.n
 Rewards Program in 2021.
 - Found and reported security/privacy issues in Google Chrome and Firefox’s implementation of the ResourceTiming
 API. **[CVE-2022-1146](https://nvd.nist.gov/vuln/detail/CVE-2022-1146)**, **[CVE-2022-29915](https://nvd.nist.gov/vuln/detail/CVE-2022-29915)**
-- Found and reported a high severity Denial-of-service attack against the popular jpeg-js javascript library to snyk.io. **[CVE-2022-25851]**
+- Found and reported a high severity Denial-of-service attack against the popular jpeg-js javascript library to snyk.io. **[CVE-2022-25851](https://nvd.nist.gov/vuln/detail/CVE-2022-25851)**
 - Use-after-free in sudo-project/sudo (cvtsudoers) **[Github issue#198](https://github.com/sudo-project/sudo/issues/198)**
