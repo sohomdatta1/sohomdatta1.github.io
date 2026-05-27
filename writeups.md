@@ -1,4 +1,5 @@
 ---
+title: CTF Writeups
 layout: subpage
 ---
 

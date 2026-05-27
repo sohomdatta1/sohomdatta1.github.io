@@ -1,4 +1,5 @@
 ---
+title: Adminplz | CTF Writeups
 layout: writeups
 ---
 

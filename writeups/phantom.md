@@ -1,4 +1,5 @@
 ---
+title: Adminplz | CTF Writeups
 layout: writeups
 ---
 # Writeup for JustCTF 2023 phantom CTF challenge

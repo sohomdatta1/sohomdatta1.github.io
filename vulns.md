@@ -1,4 +1,5 @@
 ---
+title: Reported vulnerabilities/bugs
 layout: subpage
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Open-source experience
 layout: subpage
 ---
 
