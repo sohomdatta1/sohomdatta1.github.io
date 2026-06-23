@@ -1,0 +1,3 @@
+Contact: security@sohom.dev
+Preferred-Languages: en
+Canonical: https://sohom.dev/.well-known/security.txt
