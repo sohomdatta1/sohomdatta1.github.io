@@ -6,6 +6,13 @@ layout: subpage
 # Publications 
 
 <div class="card">
+<div class="card-title">Parsers of Babel: A Large Scale Study of URL Parsing Differentials</div>
+<div class="bubbles"><div><i>To be presented at IEEE S&P 2027</i></div></div>
+<div class="authors small-text">Michael Blunt, <div class="my-name">Sohom Datta</div>, Andreas Modval, William Enck, Alexandros Kapravelos</div>
+</div>
+</div>
+
+<div class="card">
 
 <a href="https://www.ndss-symposium.org/wp-content/uploads/2026-s910-paper.pdf"><div class="card-title">Cross-Boundary Mobile Tracking: Exploring Java-to-JavaScript Information Diffusion in WebViews</div></a>
 <div class="bubbles"><div>Presented at NDSS 2026</div><div>Presented at OWP Safety Seminar</div></div>
