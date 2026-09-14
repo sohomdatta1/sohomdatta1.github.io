@@ -10,7 +10,6 @@ layout: subpage
 <div class="bubbles"><div><i>To be presented at IEEE S&P 2027</i></div></div>
 <div class="authors small-text">Michael Blunt, <div class="my-name">Sohom Datta</div>, Andreas Modval, William Enck, Alexandros Kapravelos</div>
 </div>
-</div>
 
 <div class="card">
 
