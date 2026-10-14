@@ -9,6 +9,10 @@ layout: subpage
 <div class="card-title">Parsers of Babel: A Large Scale Study of URL Parsing Differentials</div>
 <div class="bubbles"><div><i>To be presented at IEEE S&P 2027</i></div></div>
 <div class="authors small-text">Michael Blunt, <div class="my-name">Sohom Datta</div>, Andreas Modval, William Enck, Alexandros Kapravelos</div>
+<div class="cta">
+  <a href="https://github.com/wspr-ncsu/TURLMOILz">code</a>
+  <a href="https://doi.org/10.7910/DVN/W32MSS">dataset</a>
+</div>
 </div>
 
 <div class="card">
