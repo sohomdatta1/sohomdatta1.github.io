@@ -6,7 +6,7 @@ layout: subpage
 # Publications 
 
 <div class="card">
-<div class="card-title">Parsers of Babel: A Large Scale Study of URL Parsing Differentials</div>
+<a href="/paper/sp2027c1-final1328.pdf"><div class="card-title">Parsers of Babel: A Large Scale Study of URL Parsing Differentials</div></a>
 <div class="bubbles"><div><i>To be presented at IEEE S&P 2027</i></div></div>
 <div class="authors small-text">Michael Blunt, <div class="my-name">Sohom Datta</div>, Andreas Modval, William Enck, Alexandros Kapravelos</div>
 <div class="cta">
