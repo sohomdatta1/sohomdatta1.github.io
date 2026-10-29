@@ -8,7 +8,7 @@ layout: subpage
 <div class="card">
 <a href="https://arxiv.org/abs/2605.05509"><div class="card-title">WAAA! Web Adversaries Against Web Agents</div></a>
 <div class="bubbles"><div><i>arXiv preprint, 2026</i></div></div>
-<div class="authors small-text"><div class="my-name">Sohom Datta</div>, Aleksandr Nahapetyan, William Enck, Alexandros Kapravelos</div></div>
+<div class="authors small-text"><div class="my-name">Sohom Datta</div>, Aleksandr Nahapetyan, William Enck, Alexandros Kapravelos</div>
 </div>
 
 <div class="card">
