@@ -6,6 +6,12 @@ layout: subpage
 # Publications 
 
 <div class="card">
+<a href="https://arxiv.org/abs/2605.05509"><div class="card-title">WAAA! Web Adversaries Against Web Agents</div></a>
+<div class="bubbles"><div><i>arXiv preprint, 2026</i></div></div>
+<div class="authors small-text"><div class="my-name">Sohom Datta</div>, Aleksandr Nahapetyan, William Enck, Alexandros Kapravelos</div></div>
+</div>
+
+<div class="card">
 <a href="/paper/sp2027c1-final1328.pdf"><div class="card-title">Parsers of Babel: A Large Scale Study of URL Parsing Differentials</div></a>
 <div class="bubbles"><div><i>To be presented at IEEE S&P 2027</i></div></div>
 <div class="authors small-text">Michael Blunt, <div class="my-name">Sohom Datta</div>, Andreas Modval, William Enck, Alexandros Kapravelos</div>
